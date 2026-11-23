@@ -9,9 +9,9 @@ int main(){
     string ans;
     clinic obj;
     int choice = 0;
-cout<<"=====================================\n";
-cout<<" -- CEMJC CLINIC APPOINTMENT QUEUE --   \n";
-cout<<"=====================================\n";
+cout<<"=======================================\n";
+cout<<" -- COROZAL CLINIC APPOINTMENT QUEUE --   \n";
+cout<<"=======================================\n";
 do { menu();
 cout<<"===================================\n";
 choice = options() ;
